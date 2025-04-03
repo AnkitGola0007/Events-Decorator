@@ -1,0 +1,18 @@
+SMAP
+Dashboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 Dashboard.jsp
+userzone/Dashboard.jsp
++ 1 UserHeader.jsp
+userzone/../masterpage/UserHeader.jsp
++ 2 UserFooter.jsp
+userzone/../masterpage/UserFooter.jsp
+*L
+5,11:50
+5#1,37:61
+15#0,32:97
+5#2,18:129
+46#0,4:146
+*E

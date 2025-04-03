@@ -1,0 +1,18 @@
+SMAP
+Addevent_jsp.java
+JSP
+*S JSP
+*F
++ 0 Addevent.jsp
+Adminzone/Addevent.jsp
++ 1 AdminHeader.jsp
+Adminzone/../masterpage/AdminHeader.jsp
++ 2 AdminFooter.jsp
+Adminzone/../masterpage/AdminFooter.jsp
+*L
+1,11:50
+1#1,35:61
+11#0,21:95
+5#2,18:116
+31#0,5:133
+*E
